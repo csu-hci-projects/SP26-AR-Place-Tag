@@ -1,0 +1,3 @@
+C:\Users\flore\OneDrive\spring2026\3d_interface\SP26-AR-Place-Tag\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\flore\OneDrive\spring2026\3d_interface\SP26-AR-Place-Tag\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
+C:\Users\flore\OneDrive\spring2026\3d_interface\SP26-AR-Place-Tag\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

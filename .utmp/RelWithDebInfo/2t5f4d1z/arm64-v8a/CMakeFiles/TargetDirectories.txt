@@ -1,0 +1,8 @@
+C:/Users/flore/OneDrive/spring2026/3d_interface/SP26-AR-Place-Tag/.utmp/RelWithDebInfo/2t5f4d1z/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/flore/OneDrive/spring2026/3d_interface/SP26-AR-Place-Tag/.utmp/RelWithDebInfo/2t5f4d1z/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/flore/OneDrive/spring2026/3d_interface/SP26-AR-Place-Tag/.utmp/RelWithDebInfo/2t5f4d1z/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/flore/OneDrive/spring2026/3d_interface/SP26-AR-Place-Tag/.utmp/RelWithDebInfo/2t5f4d1z/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/flore/OneDrive/spring2026/3d_interface/SP26-AR-Place-Tag/.utmp/RelWithDebInfo/2t5f4d1z/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Users/flore/OneDrive/spring2026/3d_interface/SP26-AR-Place-Tag/.utmp/RelWithDebInfo/2t5f4d1z/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/flore/OneDrive/spring2026/3d_interface/SP26-AR-Place-Tag/.utmp/RelWithDebInfo/2t5f4d1z/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/flore/OneDrive/spring2026/3d_interface/SP26-AR-Place-Tag/.utmp/RelWithDebInfo/2t5f4d1z/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

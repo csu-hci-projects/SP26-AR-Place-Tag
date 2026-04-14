@@ -1,0 +1,23 @@
+# ninja log v5
+41	11690	7978319798860678	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6b3316b2e8a09160
+67	11635	7978319798634260	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	2eb9d5c7bb78cb10
+28	11655	7978319799011392	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	24fc8f220e7cc6ac
+113	12679	7978319809673193	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5bd18220b21d0750
+83	11657	7978319799162396	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	74ebf06bbc7daf74
+55	11795	7978319800675746	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6f31fb40fa446239
+100	12380	7978319806626890	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b628acd0d211ac00
+13	12626	7978319809047975	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	17c6dfd26d7df004
+11637	12233	7978319805133535	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	29d2ec22180a5cb5
+12679	12905	7978319811929483	C:/Users/flore/OneDrive/spring2026/3d_interface/SP26-AR-Place-Tag/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2t5f4d1z/obj/arm64-v8a/libgame.so	f0338d417879088a
+12233	12792	7978319810608595	C:/Users/flore/OneDrive/spring2026/3d_interface/SP26-AR-Place-Tag/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2t5f4d1z/obj/arm64-v8a/libswappywrapper.so	9f8ac6ce232b19d3
+64	3798	7978332504018129	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6b3316b2e8a09160
+173	3964	7978332503907530	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	2eb9d5c7bb78cb10
+87	3999	7978332503942852	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	24fc8f220e7cc6ac
+160	4065	7978332506860780	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	74ebf06bbc7daf74
+110	4215	7978332508993887	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6f31fb40fa446239
+225	4463	7978332511370589	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5bd18220b21d0750
+3799	4600	7978332512888444	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	29d2ec22180a5cb5
+125	4779	7978332513938673	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b628acd0d211ac00
+49	4806	7978332514720867	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	17c6dfd26d7df004
+4600	5224	7978332519042381	C:/Users/flore/OneDrive/spring2026/3d_interface/SP26-AR-Place-Tag/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2t5f4d1z/obj/arm64-v8a/libswappywrapper.so	9f8ac6ce232b19d3
+4806	5292	7978332520057920	C:/Users/flore/OneDrive/spring2026/3d_interface/SP26-AR-Place-Tag/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2t5f4d1z/obj/arm64-v8a/libgame.so	f0338d417879088a
