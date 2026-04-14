@@ -12,8 +12,12 @@ https://youtu.be/9_3EL_6mTUg
 Overleaf: 
 https://www.overleaf.com/read/zjgxzgsvsbvj#bf4871
 
-Git-Hun: 
+Git-Hub: 
 https://github.com/csu-hci-projects/SP26-AR-Place-Tag
+
+Git_Hut: README
+https://github.com/csu-hci-projects/SP26-AR-Place-Tag/blob/master/README.md
 
 Reserach Plan: 
 https://docs.google.com/document/d/193cAQQ5sjEqDTHFeyguBffonPKmogi8-sFwA6lYXTyU/edit?usp=sharing
+
