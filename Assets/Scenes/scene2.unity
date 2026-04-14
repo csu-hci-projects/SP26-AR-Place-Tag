@@ -560,7 +560,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HandDropMarker
   markerPrefab: {fileID: 6892144561840015667, guid: ebc4d486b7923dd4e9bb2e7a07b4fab5, type: 3}
-  xrCamera: {fileID: 0}
+  xrCamera: {fileID: 1116920307}
 --- !u!4 &1900725048
 Transform:
   m_ObjectHideFlags: 0

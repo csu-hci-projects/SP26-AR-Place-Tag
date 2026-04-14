@@ -42,4 +42,4 @@ public class HandDropMarker : MonoBehaviour
             Instantiate(markerPrefab, hit.point, Quaternion.identity);
         }
     }
-}
+} //

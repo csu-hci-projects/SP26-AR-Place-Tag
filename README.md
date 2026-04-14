@@ -1,40 +1,19 @@
-# VR Place Tag - AR Location Labeling
+# Checkpoint1
 
-Comparing Voice and Gesture Input for Labeling Locations in Augmented Reality
+CS 465 Checkpoint 1
 
-## 🎯 Project Overview
-AR application for placing and labeling spatial markers using either voice or gesture input. Designed for Meta Quest with hand tracking.
+A video (3-5 minutes) discussing the current state and showing what has been accomplished
+https://youtu.be/t-6Ias_aJOs
 
-## 👥 Team
-- **Dionicio Flores** - Implementation Lead
-- **Daniel Steven** - Study Design Lead  
-- **Matt Li** - Data Analysis Lead
-
-## 🛠️ Tech Stack
-- Unity 2022.3 LTS (Built-in Render Pipeline)
-- Meta Quest 2/3
-- XR Interaction Toolkit
-- Meta XR SDK
-
-## 📁 Project Structure
-Assets/
-├── Scripts/ # C# scripts for hand tracking, voice input
-├── Prefabs/ # Marker prefabs and UI elements
-├── Scenes/ # AR scenes
-└── Plugins/ # Meta SDK and dependencies
+A video discussing code (3-5 minutes) if code is available at this stage. 
+https://youtu.be/9_3EL_6mTUg
 
 
+Overleaf: 
+https://www.overleaf.com/read/zjgxzgsvsbvj#bf4871
 
-## 🚀 Getting Started
-1. Clone the repository
-2. Open in Unity 2022.3 LTS
-3. Install required packages (XR Interaction Toolkit, Meta XR SDK)
-4. Build and deploy to Meta Quest
+Git-Hun: 
+https://github.com/csu-hci-projects/SP26-AR-Place-Tag
 
-## 📋 Study Conditions
-- **Input Methods**: Voice vs. Gesture
-- **Noise Levels**: Quiet, Moderate, Loud
-- **Metrics**: Speed, Error rate, User preference
-
-## 📊 Status
-🚧 In Development - Initial setup complete, implementing core features
+Reserach Plan: 
+https://docs.google.com/document/d/193cAQQ5sjEqDTHFeyguBffonPKmogi8-sFwA6lYXTyU/edit?usp=sharing
