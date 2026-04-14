@@ -15,7 +15,7 @@ https://www.overleaf.com/read/zjgxzgsvsbvj#bf4871
 Git-Hub: 
 https://github.com/csu-hci-projects/SP26-AR-Place-Tag
 
-Git_Hut: README
+Git-Hub: README
 https://github.com/csu-hci-projects/SP26-AR-Place-Tag/blob/master/README.md
 
 Reserach Plan: 
