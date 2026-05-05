@@ -1,1 +1,0 @@
-C:\Users\flore\OneDrive\spring2026\3d_interface\SP26-AR-Place-Tag\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\2t5f4d1z\obj\arm64-v8a
